@@ -1,4 +1,4 @@
-# Leap-Year-progra-min-Python
+# Leap-Year-program in Python
 
 def is_leap(year):
     leap = False
